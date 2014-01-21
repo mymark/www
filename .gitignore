@@ -1,0 +1,15 @@
+#this is taken from: 
+#https://github.com/github/gitignore/blob/master/Drupal.gitignore
+
+# Ignore configuration files that may contain sensitive information.
+sites/*/*settings*.php
+#sites/myminc.com/*settings*.php
+#sites/default/*settings*.php
+#sites/all/*settings*.php
+
+# Paths that contain generated private content
+sites/*/private
+#sites/myminc.com/private
+#sites/default/private
+#sites/all/private
+
