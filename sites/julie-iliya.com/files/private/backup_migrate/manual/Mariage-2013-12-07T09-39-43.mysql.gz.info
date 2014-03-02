@@ -1,8 +1,0 @@
-filename = "Mariage-2013-12-07T09-39-43"
-description = ""
-datestamp = "1386405584"
-generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
-generatorversion = "7.x-2.x"
-sites[0][version] = "7.23"
-sites[0][name] = "Mariage"
-sites[0][url] = "http://julie-iliya.com/fr"
