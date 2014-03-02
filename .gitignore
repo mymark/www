@@ -9,6 +9,7 @@ sites/*/*settings*.php
 
 # Paths that contain generated private content
 sites/*/private
+sites/*/files/private
 #sites/myminc.com/private
 #sites/default/private
 #sites/all/private
