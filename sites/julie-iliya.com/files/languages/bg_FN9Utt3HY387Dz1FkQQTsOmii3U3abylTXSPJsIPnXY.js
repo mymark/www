@@ -1,0 +1,1 @@
+Drupal.locale = { 'pluralFormula': function ($n) { return Number(($n!=1)); }, 'strings': {"":{"Loading":"\u0417\u0430\u0440\u0435\u0436\u0434\u0430\u043d\u0435"}} };
